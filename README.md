@@ -25,11 +25,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PSQL"  alt="PSQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 
-## Other Skills
-
+<details>
+<summary>Other Skills</summary>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width ="50" height ="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Git Hub" width ="50" height ="50"/>&nbsp;
-<img src="https://github.com/Asabeneh/asabeneh/blob/master/images/figma.svg" alt="Figma" width ="50" height ="50"/>&nbsp;
-<img src="https://github.com/Asabeneh/asabeneh/blob/master/images/visual-studio-code.svg" alt="VSCode" width ="50" height ="50"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ" width ="50" height ="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Git Hub" width ="40" height ="40"/>&nbsp;
+<img src="https://github.com/Asabeneh/asabeneh/blob/master/images/figma.svg" alt="Figma" width ="40" height ="40"/>&nbsp;
+<img src="https://github.com/Asabeneh/asabeneh/blob/master/images/visual-studio-code.svg" alt="VSCode" width ="40" height ="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ" width ="40" height ="40"/>&nbsp;
+</details>
 
