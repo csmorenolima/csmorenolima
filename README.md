@@ -24,12 +24,15 @@
 <img src="https://github.com/Asabeneh/asabeneh/blob/master/images/nodejs.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PSQL"  alt="PSQL" width="40" height="40"/>&nbsp;
 <img src="https://4.bp.blogspot.com/-ou-a_Aa1t7A/W6IhNc3Q0gI/AAAAAAAAD6Y/pwh44arKiuM_NBqB1H7Pz4-7QhUxAgZkACLcBGAs/s1600/spring-boot-logo.png" title="SpringBoot" alt="SpringBoot" width="60" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="SpringBoot" width="60" height="40"/>&nbsp;
 
 ### Operational
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Java" alt="Jenkins" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Java" alt="Docker" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Java" alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Java" alt="Git" width="40" height="40"/>&nbsp;
+
 
 
 <details>
@@ -39,5 +42,6 @@
 <img src="https://github.com/Asabeneh/asabeneh/blob/master/images/figma.svg" alt="Figma" width ="40" height ="40"/>&nbsp;
 <img src="https://github.com/Asabeneh/asabeneh/blob/master/images/visual-studio-code.svg" alt="VSCode" width ="40" height ="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ" width ="40" height ="40"/>&nbsp;
+  
 </details>
 
