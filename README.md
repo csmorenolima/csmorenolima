@@ -7,7 +7,7 @@
 - 📧 Reach me on: *cs.morenol@outlook.com*
 ---
 
-## Languages & Technologies Learning
+## Languages & Technologies 
 
 ### Frontend 
 
@@ -31,6 +31,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Java" alt="Jenkins" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Java" alt="Docker" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Java" alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://cdn3.iconfinder.com/data/icons/blue-ulitto/128/Executable_files_VBScript_File-512.png" title="Java" alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/da/bd/71/dabd7135-bd6c-1e6b-30e5-8478a1717eba/AppIcon-85-220-4-2x.png/1200x630bb.png" title="Java" alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://static.wixstatic.com/media/277f7d_baeb89dc948f42778d5699d68aa6aa7f~mv2.png/v1/fill/w_358,h_358,al_c,lg_1,q_85/277f7d_baeb89dc948f42778d5699d68aa6aa7f~mv2.png" title="Java" alt="Docker" width="40" height="40"/>&nbsp;
+
+
 
 
 <details>
@@ -40,6 +45,8 @@
 <img src="https://github.com/Asabeneh/asabeneh/blob/master/images/figma.svg" alt="Figma" width ="40" height ="40"/>&nbsp;
 <img src="https://github.com/Asabeneh/asabeneh/blob/master/images/visual-studio-code.svg" alt="VSCode" width ="40" height ="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ" width ="40" height ="40"/>&nbsp;
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="IntelliJ" width ="40" height ="40"/>&nbsp;
+
   
 </details>
 
