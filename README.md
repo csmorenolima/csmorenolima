@@ -2,7 +2,8 @@
 
 ---
 - ✨ Passion for all things Tech &  Design
-- 🖥 Full Stack Software Engineer 
+- 🖥 Full Stack Software Engineer
+- ♾️ DevOps Engineer 
 - 🧑🏾‍🎓 Product Design Graduate
 - 📧 Reach me on: *cs.morenol@outlook.com*
 ---
