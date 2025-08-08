@@ -5,7 +5,7 @@
 - ♾️ DevOps Engineer 
 - 🖥 Full Stack Software Engineer
 - 🧑🏾‍🎓 Product Design Graduate
-- 📧 Reach me on: *cs.morenol@outlook.com*
+- 📧 Reach me on: *[LinkedIn](https://www.linkedin.com/in/carla-sofia-lima-a814091a5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsJKzp85lR6KmVyfo62lhdQ%3D%3D)*
 
 ## Languages & Technologies 
 
