@@ -58,13 +58,10 @@
   
 </details>
 
+**<h3 align="left">My GitHub Stats</h3>**
 
-### My gitHub stats :
-
-
-<br/>
-    <a href="https://github.com/csmorenolima/"><img alt="Carla's Github Stats" src="https://github-readme-stats.vercel.app/api?username=csmorenolima&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/csmorenolima/"><img alt="Carla's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csmorenolima&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages reflect the primary languages used in my code
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=csmorenolima&theme=react&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=csmorenolima&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</p>
 
