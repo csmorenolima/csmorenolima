@@ -37,7 +37,6 @@
 <img src="https://static.wixstatic.com/media/277f7d_baeb89dc948f42778d5699d68aa6aa7f~mv2.png/v1/fill/w_358,h_358,al_c,lg_1,q_85/277f7d_baeb89dc948f42778d5699d68aa6aa7f~mv2.png" title="NexusRepository" alt="NexusRepository" width="40" height="40"/>&nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/cyberark_logo_icon_168315.png" title="Cyberark" alt="Cyberark" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="Powershell" alt="Powershell" width="40" height="40"/>&nbsp;
-<img src="https://sonatypecommunity.gallerycdn.vsassets.io/extensions/sonatypecommunity/vscode-iq-plugin/1.3.4/1691065661831/Microsoft.VisualStudio.Services.Icons.Default" title="VisualStudio" alt="VisualStudio" width="50" height="50"/>&nbsp;
 
 <details>
 <summary>Other Skills</summary>
