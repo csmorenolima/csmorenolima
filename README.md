@@ -55,7 +55,7 @@
   
 </details>
 
-**<h3 align="left">My GitHub Stats</h3>**
+### My GitHub Stats
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=csmorenolima&theme=react&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
