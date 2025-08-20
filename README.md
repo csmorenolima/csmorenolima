@@ -58,3 +58,13 @@
   
 </details>
 
+
+### My gitHub stats :
+
+
+<br/>
+    <a href="https://github.com/csmorenolima/"><img alt="Carla's Github Stats" src="https://github-readme-stats.vercel.app/api?username=csmorenolima&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/csmorenolima/"><img alt="Carla's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csmorenolima&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages reflect the primary languages used in my code
+
